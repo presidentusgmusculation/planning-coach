@@ -635,6 +635,10 @@
             if (currentUser !== "Président") {
                 document.getElementById('addStaffGroup').style.display = 'none';
                 document.getElementById('addStaffBtn').style.display = 'none';
+                const assignmentBox = document.querySelector('.assignment-box');
+                if (assignmentBox) {
+                    assignmentBox.style.display = 'none';
+                }
             }
 
             document.getElementById('weekPicker').valueAsDate = selectedBaseDate;
@@ -690,8 +694,7 @@
         }
 
         function canModifyStaff(staffName) {
-            if (currentUser === "Président") return true;
-            return staffName.toLowerCase() === currentUser.toLowerCase();
+            return currentUser === "Président";
         }
 
         function saveData() {
@@ -935,7 +938,15 @@
             const currentSelected = select.value;
             select.innerHTML = "";
             
-            const availableStaff = (currentUser === "Président") ? staffList : staffList.filter(s => s.name.toLowerCase() === currentUser.toLowerCase());
+            const availableStaff = (currentUser === "Président") ? staffList : [];
+
+            if (availableStaff.length === 0 && currentUser !== "Président") {
+                const opt = document.createElement('option');
+                opt.value = "";
+                opt.textContent = "Consultation seule";
+                select.appendChild(opt);
+                return;
+            }
 
             availableStaff.forEach(staff => {
                 const opt = document.createElement('option');
@@ -1033,14 +1044,14 @@
                                 }
                             }
 
-                            let clickAction = allowed ? `onclick="clearSlotCell('${weekKey}', '${day}', '${slotKey}', '${staff.name}')"` : `onclick="alert('Accès restreint : vous pouvez uniquement modifier vos propres créneaux.')"`;
-                            let titleText = allowed ? `${staff.name} (${day} ${slotKey}) - Cliquer pour effacer` : `${staff.name} (Verrouillé pour votre session)`;
+                            let clickAction = allowed ? `onclick="clearSlotCell('${weekKey}', '${day}', '${slotKey}', '${staff.name}')"` : `onclick="alert('Accès restreint : seul le président peut modifier le planning.')"`;
+                            let titleText = allowed ? `${staff.name} (${day} ${slotKey}) - Cliquer pour effacer` : `${staff.name} (Consultation seule)`;
                             let cursorStyle = allowed ? 'cursor: pointer;' : 'cursor: not-allowed; opacity: 0.9;';
 
                             tableHtml += `<td class="slot-clickable slot-assigned ${cssClass}" style="${cursorStyle}" ${clickAction} title="${titleText}">${label}</td>`;
                         } else {
-                            let clickAction = allowed ? `onclick="quickAssignSlot('${weekKey}', '${day}', '${slotKey}', '${staff.name}')"` : `onclick="alert('Accès restreint : vous pouvez uniquement modifier vos propres créneaux.')"`;
-                            let titleText = allowed ? `Libre - Cliquer pour affecter` : `Ligne verrouillée pour votre session`;
+                            let clickAction = allowed ? `onclick="quickAssignSlot('${weekKey}', '${day}', '${slotKey}', '${staff.name}')"` : `onclick="alert('Accès restreint : seul le président peut modifier le planning.')"`;
+                            let titleText = allowed ? `Libre - Cliquer pour affecter` : `Ligne verrouillée : consultation seule`;
                             let cursorStyle = allowed ? 'cursor: pointer;' : 'cursor: not-allowed;';
 
                             tableHtml += `<td class="slot-clickable slot-empty" style="${cursorStyle}" ${clickAction} title="${titleText}">—</td>`;
@@ -1079,7 +1090,7 @@
 
         function quickAssignSlot(weekKey, day, slotKey, staffName) {
             if (!canModifyStaff(staffName)) {
-                alert("Accès restreint.");
+                alert("Accès restreint : seul le président peut modifier le planning.");
                 return;
             }
             if (!allWeeksData[weekKey][day][slotKey]) {
@@ -1092,7 +1103,7 @@
 
         function clearSlotCell(weekKey, day, slotKey, staffName) {
             if (!canModifyStaff(staffName)) {
-                alert("Accès restreint.");
+                alert("Accès restreint : seul le président peut modifier le planning.");
                 return;
             }
             if (allWeeksData[weekKey] && allWeeksData[weekKey][day] && allWeeksData[weekKey][day][slotKey]) {
@@ -1114,7 +1125,7 @@
                 return;
             }
             if (!canModifyStaff(staffName)) {
-                alert("Vous ne pouvez modifier que vos propres horaires.");
+                alert("Accès restreint : seul le président peut modifier le planning.");
                 return;
             }
 
