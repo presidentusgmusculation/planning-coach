@@ -1164,12 +1164,28 @@
                     Authorization: `Bearer ${token}`,
                     'X-GitHub-Api-Version': '2022-11-28'
                 };
+                const repositoryResponse = await fetch(`https://api.github.com/repos/${encodeURIComponent(owner)}/${encodeURIComponent(repo)}`, { headers });
+                if (!repositoryResponse.ok) {
+                    if (repositoryResponse.status === 404) {
+                        throw new Error('Dépôt introuvable ou PAT sans accès. Vérifiez exactement le propriétaire, le nom du dépôt et les droits Contents: Read and write du PAT.');
+                    }
+                    throw new Error(`Vérification du dépôt impossible (${repositoryResponse.status}).`);
+                }
+
+                const branchResponse = await fetch(`https://api.github.com/repos/${encodeURIComponent(owner)}/${encodeURIComponent(repo)}/branches/${encodeURIComponent(branch)}`, { headers });
+                if (!branchResponse.ok) {
+                    if (branchResponse.status === 404) {
+                        throw new Error(`La branche « ${branch} » n'existe pas dans ce dépôt. Utilisez le nom affiché dans GitHub, souvent « main » ou « master ».`);
+                    }
+                    throw new Error(`Vérification de la branche impossible (${branchResponse.status}).`);
+                }
+
                 const existingResponse = await fetch(`${apiBase}?ref=${encodeURIComponent(branch)}`, { headers });
                 let sha;
                 if (existingResponse.ok) {
                     sha = (await existingResponse.json()).sha;
                 } else if (existingResponse.status !== 404) {
-                    throw new Error(`Lecture GitHub impossible (${existingResponse.status}).`);
+                    throw new Error(`Lecture du fichier GitHub impossible (${existingResponse.status}).`);
                 }
 
                 const payload = {
