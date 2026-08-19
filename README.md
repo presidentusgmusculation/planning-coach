@@ -34,7 +34,7 @@ Cette application est une page HTML statique destinée à être hébergée sur G
 Le mot de passe actuel est :
 
 ```text
-Vickycarole2024!
+Vickycarole
 ```
 
 > Ce mot de passe est intégré dans la page pour l'accès présidentiel sur cette version statique.
