@@ -1,9 +1,0 @@
-{
-  "allWeeksData": {},
-  "staffList": [
-    { "name": "Madjid", "permanent": true, "colorClass": "madjid" },
-    { "name": "Maxime", "permanent": true, "colorClass": "maxime" },
-    { "name": "Bruno", "permanent": true, "colorClass": "bruno" }
-  ],
-  "customStaff": []
-}
