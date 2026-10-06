@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Consultation des plannings du dimanche uniquement.">
+    <title>Planning des dimanches</title>
+    <style>
+        :root {
+            color-scheme: light;
+            --ink: #202b36;
+            --muted: #62717d;
+            --paper: #f5f7f5;
+            --surface: #ffffff;
+            --line: #d8e0dc;
+            --green: #28634e;
+            --green-soft: #e5f1e9;
+            --blue: #2563a6;
+            --purple: #7652a3;
+            --teal: #138477;
+            --rest: #83919c;
+            --leave: #e8c547;
+            --sick: #d94b4b;
+        }
+
+        * { box-sizing: border-box; }
+        body { margin: 0; background: var(--paper); color: var(--ink); font-family: "Segoe UI", Tahoma, sans-serif; }
+
+        header { padding: 22px clamp(16px, 4vw, 52px) 18px; background: var(--green); color: #fff; }
+        .header-row { max-width: 1440px; margin: auto; display: flex; justify-content: space-between; align-items: center; gap: 16px; }
+        h1 { margin: 0; font-size: 1.55rem; font-weight: 700; }
+        .subtitle { margin: 5px 0 0; color: #e0eee6; font-size: 0.9rem; }
+        .actions { display: flex; align-items: center; gap: 8px; }
+        .actions a, .actions button { border: 1px solid rgba(255,255,255,.55); border-radius: 5px; padding: 8px 11px; background: transparent; color: #fff; font: inherit; text-decoration: none; cursor: pointer; }
+        .actions a:hover, .actions button:hover { background: rgba(255,255,255,.14); }
+
+        main { max-width: 1440px; margin: 0 auto; padding: 20px clamp(12px, 3vw, 36px) 42px; }
+        #status { margin: 0 0 14px; color: var(--muted); font-size: .88rem; }
+        #sundays { display: grid; gap: 14px; }
+        .sunday-section { overflow: hidden; background: var(--surface); border: 1px solid var(--line); border-radius: 6px; }
+        .sunday-heading { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; padding: 12px 15px; border-bottom: 1px solid var(--line); background: var(--green-soft); }
+        .sunday-heading h2 { margin: 0; color: var(--green); font-size: 1.05rem; }
+        .hours { color: var(--muted); font-size: .82rem; white-space: nowrap; }
+        .table-wrap { overflow-x: auto; }
+        table { width: 100%; min-width: 720px; border-collapse: collapse; font-size: .82rem; }
+        th, td { padding: 7px 5px; border-right: 1px solid #e6ebe8; border-bottom: 1px solid #e6ebe8; text-align: center; }
+        thead th { position: sticky; top: 0; background: #f3f6f4; color: #45545f; font-weight: 650; }
+        tbody tr:last-child td { border-bottom: 0; }
+        th:first-child, td:first-child { position: sticky; left: 0; min-width: 130px; text-align: left; background: #fff; }
+        thead th:first-child { z-index: 2; background: #f3f6f4; }
+        .agent { font-weight: 600; }
+        .cell { min-width: 42px; color: #fff; font-weight: 700; }
+        .work-madjid { background: var(--blue); }
+        .work-maxime { background: #23875e; }
+        .work-bruno { background: var(--purple); }
+        .work-extra { background: var(--teal); }
+        .repos { background: var(--rest); }
+        .conges { background: var(--leave); color: var(--ink); }
+        .maladie { background: var(--sick); }
+        .empty { color: #a5afb5; }
+        .empty-state { padding: 24px; background: var(--surface); border: 1px solid var(--line); border-radius: 6px; color: var(--muted); }
+        .error { color: #a52a2a !important; }
+
+        @media (max-width: 620px) {
+            .header-row { align-items: flex-start; flex-direction: column; }
+            .actions { width: 100%; }
+            .actions a, .actions button { flex: 1; text-align: center; }
+            .sunday-heading { align-items: flex-start; flex-direction: column; gap: 3px; }
+        }
+
+        @media print {
+            body { background: #fff; }
+            header { padding: 0 0 12px; background: #fff; color: #111; }
+            .subtitle { color: #444; }
+            .actions { display: none; }
+            main { max-width: none; padding: 8px 0; }
+            #status { display: none; }
+            #sundays { gap: 8px; }
+            .sunday-section { break-inside: avoid; }
+            .table-wrap { overflow: visible; }
+            table { min-width: 0; font-size: 7pt; }
+            th, td { padding: 3px 2px; }
+            th:first-child, td:first-child { min-width: 85px; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-row">
+            <div>
+                <h1>Planning des dimanches</h1>
+                <p class="subtitle">Consultation uniquement · 09h00 à 12h00</p>
+            </div>
+            <nav class="actions" aria-label="Actions">
+                <a href="index.html">Planning complet</a>
+                <button type="button" onclick="window.print()">Imprimer</button>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <p id="status" role="status">Chargement du planning…</p>
+        <div id="sundays"></div>
+    </main>
+    <script>
+        const timeSlots = Array.from({ length: 12 }, (_, index) => {
+            const minutes = 9 * 60 + index * 15;
+            return `${String(Math.floor(minutes / 60)).padStart(2, '0')}h${String(minutes % 60).padStart(2, '0')}`;
+        });
+
+        function makeCell(text, className = '', tagName = 'td') {
+            const cell = document.createElement(tagName);
+            cell.textContent = text;
+            if (className) cell.className = className;
+            return cell;
+        }
+
+        function renderSundays(planning) {
+            const container = document.getElementById('sundays');
+            const weeks = planning.allWeeksData || {};
+            const staff = Array.isArray(planning.staffList) ? planning.staffList : [];
+            const weekKeys = Object.keys(weeks).sort();
+
+            container.replaceChildren();
+            if (!weekKeys.length) {
+                container.innerHTML = '<p class="empty-state">Aucun dimanche publié pour le moment. Publiez le planning complet pour actualiser cette page.</p>';
+                return;
+            }
+
+            weekKeys.forEach(weekKey => {
+                const weekDate = new Date(`${weekKey}T12:00:00`);
+                if (Number.isNaN(weekDate.getTime())) return;
+                weekDate.setDate(weekDate.getDate() + 6);
+
+                const sundaySchedule = weeks[weekKey]?.Dimanche || {};
+                const activeStaff = staff.filter(person => person.permanent || timeSlots.some(slot => sundaySchedule[slot]?.[person.name]));
+                const section = document.createElement('section');
+                section.className = 'sunday-section';
+
+                const heading = document.createElement('div');
+                heading.className = 'sunday-heading';
+                const title = document.createElement('h2');
+                title.textContent = weekDate.toLocaleDateString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+                title.textContent = title.textContent.charAt(0).toUpperCase() + title.textContent.slice(1);
+                const hours = document.createElement('span');
+                hours.className = 'hours';
+                hours.textContent = 'Horaires : 09h00 - 12h00';
+                heading.append(title, hours);
+
+                const tableWrap = document.createElement('div');
+                tableWrap.className = 'table-wrap';
+                const table = document.createElement('table');
+                const thead = document.createElement('thead');
+                const headerRow = document.createElement('tr');
+                headerRow.append(makeCell('Agent', 'agent', 'th'));
+                timeSlots.forEach(slot => headerRow.append(makeCell(slot, '', 'th')));
+                thead.append(headerRow);
+
+                const tbody = document.createElement('tbody');
+                activeStaff.forEach(person => {
+                    const row = document.createElement('tr');
+                    row.append(makeCell(`👤 ${person.name}`, 'agent'));
+                    timeSlots.forEach(slot => {
+                        const assignment = sundaySchedule[slot]?.[person.name];
+                        if (!assignment) {
+                            row.append(makeCell('—', 'empty'));
+                            return;
+                        }
+
+                        const type = assignment.type || 'work';
+                        const labels = { work: '✓', repos: 'R', conges: 'C', maladie: 'AM-AT' };
+                        const kind = type === 'work'
+                            ? `work-${['madjid', 'maxime', 'bruno'].includes(person.colorClass) ? person.colorClass : 'extra'}`
+                            : (['repos', 'conges', 'maladie'].includes(type) ? type : 'work-extra');
+                        row.append(makeCell(labels[type] || '✓', `cell ${kind}`));
+                    });
+                    tbody.append(row);
+                });
+
+                table.append(thead, tbody);
+                tableWrap.append(table);
+                section.append(heading, tableWrap);
+                container.append(section);
+            });
+        }
+
+        async function loadPlanning() {
+            const status = document.getElementById('status');
+            if (location.protocol !== 'http:' && location.protocol !== 'https:') {
+                status.textContent = 'Ouvrez cette page depuis son adresse GitHub Pages ou un serveur web pour télécharger le planning publié.';
+                status.classList.add('error');
+                return;
+            }
+
+            try {
+                const response = await fetch(`data/planning.json?v=${Date.now()}`, {
+                    cache: 'no-store',
+                    credentials: 'omit',
+                    headers: { 'Cache-Control': 'no-cache', 'Pragma': 'no-cache' }
+                });
+                if (!response.ok) throw new Error(`Chargement impossible (${response.status}).`);
+                const planning = await response.json();
+                renderSundays(planning);
+                status.textContent = planning.exportDate
+                    ? `Dernier planning publié : ${new Date(planning.exportDate).toLocaleString('fr-FR')}`
+                    : 'Planning publié des dimanches';
+            } catch (error) {
+                status.textContent = 'Téléchargement du planning publié impossible. Vérifiez la connexion et publiez le planning complet. Aucune donnée locale ne sera utilisée.';
+                status.classList.add('error');
+            }
+        }
+
+        loadPlanning();
+    </script>
+</body>
+</html>
