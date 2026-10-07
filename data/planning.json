@@ -38560,76 +38560,126 @@
     },
     "2026-11-09": {
       "Lundi": {
-        "08h00": {},
-        "08h15": {},
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
         "08h30": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "08h45": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "09h00": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "09h15": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "09h30": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "09h45": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "10h00": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "10h15": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "10h30": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "10h45": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "11h00": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "11h15": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "11h30": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "11h45": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "12h00": {
@@ -38638,6 +38688,9 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "12h15": {
@@ -38646,6 +38699,9 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "12h30": {
@@ -38654,6 +38710,9 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "12h45": {
@@ -38662,6 +38721,9 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "13h00": {
@@ -38670,6 +38732,9 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "13h15": {
@@ -38678,56 +38743,89 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "13h30": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "13h45": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "14h00": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "14h15": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "14h30": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "14h45": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "15h00": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "15h15": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "15h30": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "15h45": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "16h00": {
@@ -38735,7 +38833,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "16h15": {
@@ -38743,7 +38841,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "16h30": {
@@ -38751,7 +38849,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "16h45": {
@@ -38759,7 +38857,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "17h00": {
@@ -38767,7 +38865,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "17h15": {
@@ -38775,7 +38873,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "17h30": {
@@ -38783,7 +38881,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "17h45": {
@@ -38791,165 +38889,255 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "18h00": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "18h15": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "18h30": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "18h45": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "19h00": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "19h15": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "19h30": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "19h45": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
-        "20h00": {},
-        "20h15": {},
-        "20h30": {},
-        "20h45": {}
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
       },
       "Mardi": {
-        "08h00": {},
-        "08h15": {},
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
         "08h30": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "08h45": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "09h00": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "09h15": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "09h30": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "09h45": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "10h00": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "10h15": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "10h30": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "10h45": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "11h00": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "11h15": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "11h30": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "11h45": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "12h00": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "12h15": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "12h30": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "12h45": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "13h00": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "13h15": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "13h30": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "13h45": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "14h00": {
@@ -38958,6 +39146,9 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "14h15": {
@@ -38966,16 +39157,25 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "14h30": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "14h45": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "15h00": {
@@ -38983,7 +39183,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "15h15": {
@@ -38991,7 +39191,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "15h30": {
@@ -38999,7 +39199,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "15h45": {
@@ -39007,7 +39207,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "16h00": {
@@ -39015,7 +39215,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "16h15": {
@@ -39023,7 +39223,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "16h30": {
@@ -39031,7 +39231,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "16h45": {
@@ -39039,7 +39239,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "17h00": {
@@ -39047,7 +39247,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "17h15": {
@@ -39055,7 +39255,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "17h30": {
@@ -39063,7 +39263,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "17h45": {
@@ -39071,7 +39271,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "18h00": {
@@ -39079,7 +39279,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "18h15": {
@@ -39087,43 +39287,59 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "18h30": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "18h45": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "19h00": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "19h15": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "19h30": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "19h45": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
-        "20h00": {},
-        "20h15": {},
-        "20h30": {},
-        "20h45": {}
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
       },
       "Mercredi": {
         "12h00": {
@@ -39134,7 +39350,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "12h15": {
@@ -39145,7 +39361,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "12h30": {
@@ -39156,7 +39372,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "12h45": {
@@ -39167,7 +39383,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "13h00": {
@@ -39178,7 +39394,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "13h15": {
@@ -39189,7 +39405,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "13h30": {
@@ -39200,7 +39416,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "13h45": {
@@ -39211,7 +39427,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "14h00": {
@@ -39222,7 +39438,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "14h15": {
@@ -39233,7 +39449,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "14h30": {
@@ -39244,7 +39460,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "14h45": {
@@ -39255,7 +39471,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "15h00": {
@@ -39266,7 +39482,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "15h15": {
@@ -39277,7 +39493,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "15h30": {
@@ -39288,7 +39504,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "15h45": {
@@ -39299,7 +39515,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "16h00": {
@@ -39310,7 +39526,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "16h15": {
@@ -39321,7 +39537,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "16h30": {
@@ -39332,7 +39548,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "16h45": {
@@ -39343,7 +39559,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "17h00": {
@@ -39354,7 +39570,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "17h15": {
@@ -39365,7 +39581,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "17h30": {
@@ -39376,7 +39592,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "17h45": {
@@ -39387,7 +39603,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "18h00": {
@@ -39398,7 +39614,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "18h15": {
@@ -39409,7 +39625,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "18h30": {
@@ -39420,7 +39636,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "18h45": {
@@ -39431,7 +39647,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "19h00": {
@@ -39442,7 +39658,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "19h15": {
@@ -39453,7 +39669,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "19h30": {
@@ -39464,7 +39680,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "19h45": {
@@ -39475,7 +39691,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "20h00": {
@@ -39486,7 +39702,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "20h15": {
@@ -39497,7 +39713,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "20h30": {
@@ -39508,7 +39724,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "20h45": {
@@ -39519,61 +39735,99 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         }
       },
       "Jeudi": {
-        "08h00": {},
-        "08h15": {},
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
         "08h30": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "08h45": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "09h00": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "09h15": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "09h30": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "09h45": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "10h00": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "10h15": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "10h30": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "10h45": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "11h00": {
@@ -39582,6 +39836,9 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "11h15": {
@@ -39590,6 +39847,9 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "11h30": {
@@ -39598,6 +39858,9 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "11h45": {
@@ -39606,6 +39869,9 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "12h00": {
@@ -39614,6 +39880,9 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "12h15": {
@@ -39622,6 +39891,9 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "12h30": {
@@ -39630,6 +39902,9 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "12h45": {
@@ -39638,6 +39913,9 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "13h00": {
@@ -39646,6 +39924,9 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "13h15": {
@@ -39654,6 +39935,9 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "13h30": {
@@ -39662,6 +39946,9 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "13h45": {
@@ -39670,6 +39957,9 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "14h00": {
@@ -39678,6 +39968,9 @@
           },
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "14h15": {
@@ -39686,6 +39979,9 @@
           },
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "14h30": {
@@ -39693,7 +39989,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "14h45": {
@@ -39701,7 +39997,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "15h00": {
@@ -39709,7 +40005,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "15h15": {
@@ -39717,7 +40013,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "15h30": {
@@ -39725,7 +40021,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "15h45": {
@@ -39733,7 +40029,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "16h00": {
@@ -39741,7 +40037,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "16h15": {
@@ -39749,7 +40045,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "16h30": {
@@ -39757,7 +40053,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "16h45": {
@@ -39765,165 +40061,243 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "17h00": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "17h15": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "17h30": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "17h45": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "18h00": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "18h15": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "18h30": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "18h45": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "19h00": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "19h15": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "19h30": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "19h45": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
-        "20h00": {},
-        "20h15": {},
-        "20h30": {},
-        "20h45": {}
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
       },
       "Vendredi": {
-        "08h00": {},
-        "08h15": {},
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
         "08h30": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "08h45": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "09h00": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "09h15": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "09h30": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "09h45": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "10h00": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "10h15": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "10h30": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "10h45": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "11h00": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "11h15": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "11h30": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "11h45": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "12h00": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "12h15": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "12h30": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "12h45": {
           "Madjid": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "13h00": {
@@ -39932,6 +40306,9 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "13h15": {
@@ -39940,31 +40317,46 @@
           },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "13h30": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "13h45": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "14h00": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "14h15": {
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "14h30": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           },
           "Maxime": {
             "type": "work"
@@ -39972,7 +40364,7 @@
         },
         "14h45": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           },
           "Maxime": {
             "type": "work"
@@ -39980,7 +40372,7 @@
         },
         "15h00": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           },
           "Maxime": {
             "type": "work"
@@ -39988,7 +40380,7 @@
         },
         "15h15": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           },
           "Maxime": {
             "type": "work"
@@ -39996,7 +40388,7 @@
         },
         "15h30": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           },
           "Maxime": {
             "type": "work"
@@ -40004,7 +40396,7 @@
         },
         "15h45": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           },
           "Maxime": {
             "type": "work"
@@ -40012,7 +40404,7 @@
         },
         "16h00": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           },
           "Maxime": {
             "type": "work"
@@ -40020,7 +40412,7 @@
         },
         "16h15": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           },
           "Maxime": {
             "type": "work"
@@ -40028,7 +40420,7 @@
         },
         "16h30": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           },
           "Maxime": {
             "type": "work"
@@ -40036,7 +40428,7 @@
         },
         "16h45": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           },
           "Maxime": {
             "type": "work"
@@ -40044,68 +40436,84 @@
         },
         "17h00": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "17h15": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "17h30": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "17h45": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "18h00": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "18h15": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "18h30": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "18h45": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "19h00": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "19h15": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "19h30": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "19h45": {
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
-        "20h00": {},
-        "20h15": {},
-        "20h30": {},
-        "20h45": {}
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
       },
       "Samedi": {
         "08h00": {
@@ -40113,7 +40521,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "08h15": {
@@ -40121,7 +40529,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "08h30": {
@@ -40132,7 +40540,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "08h45": {
@@ -40143,7 +40551,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "09h00": {
@@ -40154,7 +40562,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "09h15": {
@@ -40165,7 +40573,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "09h30": {
@@ -40176,7 +40584,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "09h45": {
@@ -40187,7 +40595,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "10h00": {
@@ -40198,7 +40606,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "10h15": {
@@ -40209,7 +40617,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "10h30": {
@@ -40220,7 +40628,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "10h45": {
@@ -40231,7 +40639,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "11h00": {
@@ -40242,7 +40650,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "11h15": {
@@ -40253,7 +40661,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "11h30": {
@@ -40264,7 +40672,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "11h45": {
@@ -40275,7 +40683,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "12h00": {
@@ -40286,7 +40694,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "12h15": {
@@ -40297,7 +40705,7 @@
             "type": "work"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "12h30": {
@@ -40305,7 +40713,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "12h45": {
@@ -40313,7 +40721,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "13h00": {
@@ -40321,7 +40729,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "13h15": {
@@ -40329,7 +40737,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "13h30": {
@@ -40337,7 +40745,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "13h45": {
@@ -40345,7 +40753,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "14h00": {
@@ -40353,7 +40761,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "14h15": {
@@ -40361,7 +40769,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "14h30": {
@@ -40369,7 +40777,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "14h45": {
@@ -40377,7 +40785,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "15h00": {
@@ -40385,7 +40793,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "15h15": {
@@ -40393,7 +40801,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "15h30": {
@@ -40401,7 +40809,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "15h45": {
@@ -40409,7 +40817,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "16h00": {
@@ -40417,7 +40825,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "16h15": {
@@ -40425,7 +40833,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "16h30": {
@@ -40433,7 +40841,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "16h45": {
@@ -40441,7 +40849,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "17h00": {
@@ -40449,7 +40857,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "17h15": {
@@ -40457,7 +40865,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "17h30": {
@@ -40465,7 +40873,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         },
         "17h45": {
@@ -40473,7 +40881,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "repos"
+            "type": "maladie"
           }
         }
       },
@@ -40486,7 +40894,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "09h15": {
@@ -40497,7 +40905,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "09h30": {
@@ -40508,7 +40916,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "09h45": {
@@ -40519,7 +40927,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "10h00": {
@@ -40530,7 +40938,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "10h15": {
@@ -40541,7 +40949,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "10h30": {
@@ -40552,7 +40960,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "10h45": {
@@ -40563,7 +40971,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "11h00": {
@@ -40574,7 +40982,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "11h15": {
@@ -40585,7 +40993,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "11h30": {
@@ -40596,7 +41004,7 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
           }
         },
         "11h45": {
@@ -40607,7 +41015,5991 @@
             "type": "repos"
           },
           "Bruno": {
-            "type": "work"
+            "type": "maladie"
+          }
+        }
+      }
+    },
+    "2026-11-16": {
+      "Lundi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Mardi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Mercredi": {
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Jeudi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Vendredi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Samedi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Dimanche": {
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      }
+    },
+    "2026-11-23": {
+      "Lundi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Mardi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Mercredi": {
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Jeudi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Vendredi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Samedi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Dimanche": {
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      }
+    },
+    "2026-11-30": {
+      "Lundi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Mardi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Mercredi": {
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Jeudi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Vendredi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Samedi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Dimanche": {
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      }
+    },
+    "2026-12-07": {
+      "Lundi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Mardi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Mercredi": {
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Jeudi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Vendredi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "18h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "19h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "20h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Samedi": {
+        "08h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "08h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "12h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "13h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "14h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "15h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "16h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "17h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        }
+      },
+      "Dimanche": {
+        "09h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "09h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "10h45": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h00": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h15": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h30": {
+          "Bruno": {
+            "type": "maladie"
+          }
+        },
+        "11h45": {
+          "Bruno": {
+            "type": "maladie"
           }
         }
       }
@@ -40702,5 +47094,5 @@
       "colorClass": "extra"
     }
   ],
-  "exportDate": "2026-10-07T16:38:41.881Z"
+  "exportDate": "2026-10-07T16:42:16.628Z"
 }
