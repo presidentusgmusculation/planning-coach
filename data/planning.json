@@ -34283,6 +34283,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "yann": {
+            "type": "work"
           }
         },
         "08h45": {
@@ -34291,6 +34294,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "yann": {
+            "type": "work"
           }
         },
         "09h00": {
@@ -34299,6 +34305,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "yann": {
+            "type": "work"
           }
         },
         "09h15": {
@@ -34307,6 +34316,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "yann": {
+            "type": "work"
           }
         },
         "09h30": {
@@ -34315,6 +34327,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "yann": {
+            "type": "work"
           }
         },
         "09h45": {
@@ -34323,6 +34338,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "yann": {
+            "type": "work"
           }
         },
         "10h00": {
@@ -34797,6 +34815,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "yann": {
+            "type": "work"
           }
         },
         "08h45": {
@@ -34805,6 +34826,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "yann": {
+            "type": "work"
           }
         },
         "09h00": {
@@ -34813,6 +34837,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "yann": {
+            "type": "work"
           }
         },
         "09h15": {
@@ -34821,6 +34848,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "yann": {
+            "type": "work"
           }
         },
         "09h30": {
@@ -34829,6 +34859,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "yann": {
+            "type": "work"
           }
         },
         "09h45": {
@@ -34837,6 +34870,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "yann": {
+            "type": "work"
           }
         },
         "10h00": {
@@ -53235,5 +53271,5 @@
       "colorClass": "extra"
     }
   ],
-  "exportDate": "2026-10-08T12:05:36.713Z"
+  "exportDate": "2026-10-08T12:08:16.533Z"
 }
