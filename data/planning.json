@@ -33190,11 +33190,11 @@
           }
         },
         "11h45": {
-          "Bruno": {
-            "type": "maladie"
-          },
           "Maxime": {
             "type": "work"
+          },
+          "Bruno": {
+            "type": "maladie"
           }
         },
         "12h00": {
@@ -35404,6 +35404,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "sara": {
+            "type": "work"
           }
         },
         "08h45": {
@@ -35415,6 +35418,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "sara": {
+            "type": "work"
           }
         },
         "09h00": {
@@ -35426,6 +35432,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "sara": {
+            "type": "work"
           }
         },
         "09h15": {
@@ -35437,6 +35446,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "sara": {
+            "type": "work"
           }
         },
         "09h30": {
@@ -35448,6 +35460,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "sara": {
+            "type": "work"
           }
         },
         "09h45": {
@@ -35459,6 +35474,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "sara": {
+            "type": "work"
           }
         },
         "10h00": {
@@ -35470,6 +35488,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "sara": {
+            "type": "work"
           }
         },
         "10h15": {
@@ -35481,6 +35502,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "sara": {
+            "type": "work"
           }
         },
         "10h30": {
@@ -35492,6 +35516,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "sara": {
+            "type": "work"
           }
         },
         "10h45": {
@@ -35503,6 +35530,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "sara": {
+            "type": "work"
           }
         },
         "11h00": {
@@ -35514,6 +35544,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "sara": {
+            "type": "work"
           }
         },
         "11h15": {
@@ -35525,6 +35558,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "sara": {
+            "type": "work"
           }
         },
         "11h30": {
@@ -35536,6 +35572,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "sara": {
+            "type": "work"
           }
         },
         "11h45": {
@@ -35547,6 +35586,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "sara": {
+            "type": "work"
           }
         },
         "12h00": {
@@ -35558,6 +35600,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "sara": {
+            "type": "work"
           }
         },
         "12h15": {
@@ -35569,6 +35614,9 @@
           },
           "Bruno": {
             "type": "maladie"
+          },
+          "sara": {
+            "type": "work"
           }
         },
         "12h30": {
@@ -38020,7 +38068,7 @@
           "Bruno": {
             "type": "maladie"
           },
-          "Madjid": {
+          "Maxime": {
             "type": "work"
           }
         },
@@ -38028,7 +38076,7 @@
           "Bruno": {
             "type": "maladie"
           },
-          "Madjid": {
+          "Maxime": {
             "type": "work"
           }
         },
@@ -43501,6 +43549,9 @@
           },
           "Maxime": {
             "type": "repos"
+          },
+          "dodo": {
+            "type": "work"
           }
         },
         "09h15": {
@@ -43512,6 +43563,9 @@
           },
           "Maxime": {
             "type": "repos"
+          },
+          "dodo": {
+            "type": "work"
           }
         },
         "09h30": {
@@ -43523,6 +43577,9 @@
           },
           "Maxime": {
             "type": "repos"
+          },
+          "dodo": {
+            "type": "work"
           }
         },
         "09h45": {
@@ -43534,6 +43591,9 @@
           },
           "Maxime": {
             "type": "repos"
+          },
+          "dodo": {
+            "type": "work"
           }
         },
         "10h00": {
@@ -43545,6 +43605,9 @@
           },
           "Maxime": {
             "type": "repos"
+          },
+          "dodo": {
+            "type": "work"
           }
         },
         "10h15": {
@@ -43556,6 +43619,9 @@
           },
           "Maxime": {
             "type": "repos"
+          },
+          "dodo": {
+            "type": "work"
           }
         },
         "10h30": {
@@ -43567,6 +43633,9 @@
           },
           "Maxime": {
             "type": "repos"
+          },
+          "dodo": {
+            "type": "work"
           }
         },
         "10h45": {
@@ -43578,6 +43647,9 @@
           },
           "Maxime": {
             "type": "repos"
+          },
+          "dodo": {
+            "type": "work"
           }
         },
         "11h00": {
@@ -43589,6 +43661,9 @@
           },
           "Maxime": {
             "type": "repos"
+          },
+          "dodo": {
+            "type": "work"
           }
         },
         "11h15": {
@@ -43600,6 +43675,9 @@
           },
           "Maxime": {
             "type": "repos"
+          },
+          "dodo": {
+            "type": "work"
           }
         },
         "11h30": {
@@ -43611,6 +43689,9 @@
           },
           "Maxime": {
             "type": "repos"
+          },
+          "dodo": {
+            "type": "work"
           }
         },
         "11h45": {
@@ -43622,6 +43703,9 @@
           },
           "Maxime": {
             "type": "repos"
+          },
+          "dodo": {
+            "type": "work"
           }
         }
       }
@@ -54228,5 +54312,5 @@
       "colorClass": "extra"
     }
   ],
-  "exportDate": "2026-10-15T12:32:43.822Z"
+  "exportDate": "2026-10-16T09:16:12.752Z"
 }
