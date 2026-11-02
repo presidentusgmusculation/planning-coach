@@ -38517,6 +38517,9 @@
           },
           "Madjid": {
             "type": "repos"
+          },
+          "antoine": {
+            "type": "work"
           }
         },
         "18h15": {
@@ -38525,6 +38528,9 @@
           },
           "Madjid": {
             "type": "repos"
+          },
+          "antoine": {
+            "type": "work"
           }
         },
         "18h30": {
@@ -38533,6 +38539,9 @@
           },
           "Madjid": {
             "type": "repos"
+          },
+          "antoine": {
+            "type": "work"
           }
         },
         "18h45": {
@@ -38541,6 +38550,9 @@
           },
           "Madjid": {
             "type": "repos"
+          },
+          "antoine": {
+            "type": "work"
           }
         },
         "19h00": {
@@ -38549,6 +38561,9 @@
           },
           "Madjid": {
             "type": "repos"
+          },
+          "antoine": {
+            "type": "work"
           }
         },
         "19h15": {
@@ -38557,6 +38572,9 @@
           },
           "Madjid": {
             "type": "repos"
+          },
+          "antoine": {
+            "type": "work"
           }
         },
         "19h30": {
@@ -38565,6 +38583,9 @@
           },
           "Madjid": {
             "type": "repos"
+          },
+          "antoine": {
+            "type": "work"
           }
         },
         "19h45": {
@@ -38573,6 +38594,9 @@
           },
           "Madjid": {
             "type": "repos"
+          },
+          "antoine": {
+            "type": "work"
           }
         },
         "20h00": {
@@ -58931,5 +58955,5 @@
       "colorClass": "extra"
     }
   ],
-  "exportDate": "2026-10-30T11:53:50.732Z"
+  "exportDate": "2026-11-02T08:42:21.886Z"
 }
