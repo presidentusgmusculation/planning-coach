@@ -48728,9 +48728,6 @@
           },
           "Maxime": {
             "type": "repos"
-          },
-          "dodo": {
-            "type": "work"
           }
         },
         "09h15": {
@@ -48742,9 +48739,6 @@
           },
           "Maxime": {
             "type": "repos"
-          },
-          "dodo": {
-            "type": "work"
           }
         },
         "09h30": {
@@ -48756,9 +48750,6 @@
           },
           "Maxime": {
             "type": "repos"
-          },
-          "dodo": {
-            "type": "work"
           }
         },
         "09h45": {
@@ -48770,9 +48761,6 @@
           },
           "Maxime": {
             "type": "repos"
-          },
-          "dodo": {
-            "type": "work"
           }
         },
         "10h00": {
@@ -48784,9 +48772,6 @@
           },
           "Maxime": {
             "type": "repos"
-          },
-          "dodo": {
-            "type": "work"
           }
         },
         "10h15": {
@@ -48798,9 +48783,6 @@
           },
           "Maxime": {
             "type": "repos"
-          },
-          "dodo": {
-            "type": "work"
           }
         },
         "10h30": {
@@ -48813,7 +48795,7 @@
           "Maxime": {
             "type": "repos"
           },
-          "dodo": {
+          "stéphane Pek": {
             "type": "work"
           }
         },
@@ -48827,7 +48809,7 @@
           "Maxime": {
             "type": "repos"
           },
-          "dodo": {
+          "stéphane Pek": {
             "type": "work"
           }
         },
@@ -48841,7 +48823,7 @@
           "Maxime": {
             "type": "repos"
           },
-          "dodo": {
+          "stéphane Pek": {
             "type": "work"
           }
         },
@@ -48855,7 +48837,7 @@
           "Maxime": {
             "type": "repos"
           },
-          "dodo": {
+          "stéphane Pek": {
             "type": "work"
           }
         },
@@ -48869,7 +48851,7 @@
           "Maxime": {
             "type": "repos"
           },
-          "dodo": {
+          "stéphane Pek": {
             "type": "work"
           }
         },
@@ -48883,7 +48865,7 @@
           "Maxime": {
             "type": "repos"
           },
-          "dodo": {
+          "stéphane Pek": {
             "type": "work"
           }
         }
@@ -61187,5 +61169,5 @@
       "colorClass": "extra"
     }
   ],
-  "exportDate": "2026-11-02T13:08:18.808Z"
+  "exportDate": "2026-11-06T14:25:26.893Z"
 }
