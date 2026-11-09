@@ -39734,11 +39734,11 @@
           }
         },
         "14h15": {
-          "Maxime": {
-            "type": "work"
-          },
           "Bruno": {
             "type": "maladie"
+          },
+          "Madjid": {
+            "type": "work"
           }
         },
         "14h30": {
@@ -40524,19 +40524,19 @@
           }
         },
         "14h00": {
-          "Maxime": {
-            "type": "work"
-          },
           "Bruno": {
             "type": "maladie"
+          },
+          "Madjid": {
+            "type": "work"
           }
         },
         "14h15": {
-          "Maxime": {
-            "type": "work"
-          },
           "Bruno": {
             "type": "maladie"
+          },
+          "Madjid": {
+            "type": "work"
           }
         },
         "14h30": {
@@ -40924,19 +40924,19 @@
           }
         },
         "14h00": {
-          "Maxime": {
-            "type": "work"
-          },
           "Bruno": {
             "type": "maladie"
+          },
+          "Madjid": {
+            "type": "work"
           }
         },
         "14h15": {
-          "Maxime": {
-            "type": "work"
-          },
           "Bruno": {
             "type": "maladie"
+          },
+          "Madjid": {
+            "type": "work"
           }
         },
         "14h30": {
@@ -62935,5 +62935,5 @@
       "colorClass": "extra"
     }
   ],
-  "exportDate": "2026-11-06T14:35:05.054Z"
+  "exportDate": "2026-11-09T11:13:00.111Z"
 }
